@@ -1,4 +1,4 @@
-import findBy from './find_by';
+import findBy from './findBy';
 
 const finder1 = findBy('type', 'attack');
 const results1 = [
